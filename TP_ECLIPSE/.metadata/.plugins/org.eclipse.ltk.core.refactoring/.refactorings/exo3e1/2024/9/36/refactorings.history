@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;exo_3_5&apos; to &apos;exo3e1&apos;&#x0A;- Original project: &apos;exo_3_5&apos;&#x0A;- Original element: &apos;exo_3_5/src/exo_3_5&apos;&#x0A;- Renamed element: &apos;exo_3_5/src/exo3e1&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;exo_3_5&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;exo_3_5" name="exo3e1" qualified="false" references="true" stamp="1725378762386" textual="false" version="1.0"/>
+</session>

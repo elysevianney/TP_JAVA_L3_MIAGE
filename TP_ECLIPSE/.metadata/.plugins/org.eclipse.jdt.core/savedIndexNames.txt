@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+/private/student/n/on/eahomagnon/Documents/TP_JAVA/TP_ECLIPSE/.metadata/.plugins/org.eclipse.jdt.core
+960397480.index
+1865797976.index
+2688012562.index
+3610304900.index
